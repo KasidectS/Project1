@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int b(){
-	return();
+	return 0;
 }
